@@ -1,0 +1,34 @@
+{
+
+    "name": "-asdf",
+
+    "version": "1.0.0",
+
+    "description": "",
+
+    "main": "server.js",
+
+    "scripts": {
+
+      "start": "node server.js"
+
+    },
+
+    "engines": {
+
+      "node": "16.6"
+
+    },
+
+    "author": "",
+
+    "license": "ISC",
+
+    "dependencies": {
+
+      "aoi.js": "^5.2.0"
+
+    }
+
+  } 
+
